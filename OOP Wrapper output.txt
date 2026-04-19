@@ -1,0 +1,63 @@
+=== Employee Management System ===
+1. Add Employee
+2. Add Manager
+3. Add Developer
+4. Show All
+5. Exit
+Enter choice:  1
+Enter ID:  2302031000080
+Enter Name:  Patel Rudra
+Enter Age:  21
+Enter Salary: 1000000000
+1. Add Employee
+2. Add Manager
+3. Add Developer
+4. Show All
+5. Exit
+Enter choice:  2
+Enter ID:  2302031000079
+Enter Name:  Patel Prajay
+Enter Age:  21
+Enter Salary:  -10
+Enter Department:  IT
+1. Add Employee
+2. Add Manager
+3. Add Developer
+4. Show All
+5. Exit
+Enter choice:  3
+Enter ID:  2302031000111
+Enter Name:  Patel Khushal
+Enter Age:  21
+Enter Salary:  10000
+Enter Language:  Python
+1. Add Employee
+2. Add Manager
+3. Add Developer
+4. Show All
+5. Exit
+Enter choice:  4
+--------------------
+Name: Patel Rudra
+Age: 21
+ID: 2302031000080
+Salary: 1000000000
+--------------------
+Name: Patel Prajay
+Age: 21
+ID: 2302031000079
+Salary: -10
+Department: IT
+--------------------
+Name: Patel Khushal
+Age: 21
+ID: 2302031000111
+Salary: 10000
+Language: Python
+1. Add Employee
+2. Add Manager
+3. Add Developer
+4. Show All
+5. Exit
+Enter choice:  5
+Exiting program...
